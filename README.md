@@ -3,6 +3,7 @@
 # 09/19/2024
 Checkpoint 5 100 Days of Swift! 
 
+Attached to this repo is a Screenshot showing my code successfully running and my Playgrounds file!
 
 Here are the instructions given: 
 
