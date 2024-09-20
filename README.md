@@ -1,7 +1,10 @@
 # 100DOSC5
 # Zheen H. Suseyi
 # 09/19/2024
-Checkpoint 5 100 Days of Swift! Here are the instructions given: 
+Checkpoint 5 100 Days of Swift! 
+
+
+Here are the instructions given: 
 
 Your input is this: 
 
