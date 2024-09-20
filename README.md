@@ -3,7 +3,9 @@
 # 09/19/2024
 Checkpoint 5 100 Days of Swift! Here are the instructions given: 
 
-Your input is this:
+Your input is this: 
+
+
 let luckyNumbers = [7, 4, 38, 21, 16, 15, 12, 33, 31, 49]
 Your job is to:
 
